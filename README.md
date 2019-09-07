@@ -51,5 +51,12 @@ $ node liri.js do-what-it-says
 output: 
 <a href="https://imgur.com/RZHp0pu"><img src="https://i.imgur.com/RZHp0pu.png" title="source: imgur.com" /></a>
 
+5. Invalid Input
+```
+$ node liri.js
+```
+output: 
+<a href="https://imgur.com/P8qRnUZ"><img src="https://i.imgur.com/P8qRnUZ.png" title="source: imgur.com" /></a>
+
 
 
